@@ -1,2 +1,2 @@
-rootProject.name = "qa-kotlin"
+rootProject.name = "working-with-databases"
 
